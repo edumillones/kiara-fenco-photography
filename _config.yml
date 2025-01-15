@@ -11,11 +11,11 @@ subtitle: "Capturing moments, one frame at a time."
 author: "Designed by Designify"
 header:
  title: "Kiara Fenco"
- subtitle: "Telling stories with every shot"
+ subtitle: "Stories in every shot"
 footer:
  name: "Hi, I'm Kiara"
  bio: "I’m a Communication and Audiovisual student from Peru with a deep passion for photography. Through my lens, I capture the beauty of the world and tell stories that inspire."
- github: "Interested in a website like this? Check out <a href=\"https://edumillones.vercel.app/\">Designify</a> and bring your vision to life!"
+ github: "Interested in a website like this? Check out <a href=\"https://designify.com/\">Designify</a> and bring your vision to life!"
  web_design: "Website designed by Designify"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
